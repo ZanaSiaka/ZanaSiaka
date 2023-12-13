@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZanaSiaka
-- 👀 I’m interested in Dev Web & Mobile
+- 👀 I’m interested to Dev Web & Mobile
 - 🌱 I’m currently learning Javascript & Python
 
 <!---
