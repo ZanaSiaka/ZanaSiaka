@@ -29,7 +29,7 @@
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ZanaSiaka&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=ZanaSiaka&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?username=ZanaSiaka&theme=tokyonight" />
 </p>
 
 ---
